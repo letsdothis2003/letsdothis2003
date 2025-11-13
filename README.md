@@ -1,10 +1,10 @@
 #  HELLO THERE!
 
-##  About Me
-- 🎓 Computer Science undergrad at Queens College
+##  About Me:
+-  Computer Science undergrad at Queens College
 -  Interested in cryptography, machine learning, and database automation. Primarily I code in Python, Java and SQ with miscellaenous other projects.
 -  Outside of the technical stuff, I was a DOE emoloyee as a English tutor and I really enjoy being informative and educational.
--  My hobbies include: Playing old video games through emulation, 3d printing action figures, messing around with raspbery pi. 
+-  My hobbies include: Playing old video games through emulation, 3d printing action figures and functional stuff like shelves, messing around with raspbery pi. 
   
 
 
