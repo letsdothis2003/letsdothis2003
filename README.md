@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 -Undergrad at Queens College<br><br>-Interested in cryptography, machine learning, and database automation. <br><br>-Outside of technical stuff, I am interested in policy advocacy(specifically accessible education, housing, ethical technology and data privacy)<br><br>-Really recommend the organization Codepath as they helped prepare me and gave me opportunities to network. I also learned leadership opportunities while being a part-time under them. <br><br>-My hobbies include: Playing old video games through emulation(Really into playing old Wii titles on dolphin), 3d printing action figures and functional stuff like shelves, messing around with raspbery pi.<br>
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ftanvir/) 
 
 # 💻 Tech Stack:
